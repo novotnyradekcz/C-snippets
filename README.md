@@ -1,8 +1,8 @@
-# C-snippets
+# C snippets
 Various snippets of C code that might be useful
 
 ## linked_list
-An implelementation of a doubly linked list, originally created as a solution to an [exercise](https://exercism.org/tracks/c/exercises/linked-list) on [exercism.org](https://exercism.org/).
+An implementation of a doubly linked list, originally created as a solution to an [exercise](https://exercism.org/tracks/c/exercises/linked-list) on [exercism.org](https://exercism.org/).
 
 Implemented functions:
 - `list_create` creates an empty list
